@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# C1_MNIST_Comparison 自动下载的 MNIST 数据集(约 64MB, 不入库)
+C1_MNIST_Comparison/data/
